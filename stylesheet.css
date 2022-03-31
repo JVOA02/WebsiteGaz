@@ -1,0 +1,226 @@
+*{
+    margin:0px;
+    padding:0px; 
+}
+.content-header{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    width: 1000px;
+    margin:0 auto;
+}
+.content-logo{
+    width:500px;
+    height: 10px;
+}
+.content-nav{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding: 40px;
+    width: 500px;
+    height: 10px;
+}
+.content-ul{
+    display: flex;
+    justify-content: space-around;
+    height: 20px;
+}
+.content-li.logo{
+    width: 40px;
+}
+.content-li.home{
+    margin-left: 20px;
+    width: 40px;
+}
+.content-li.gas{
+    margin-left: 20px;
+    width: 40px; 
+}
+.content-li{
+    list-style: none;
+    margin-left: 20px;
+    width: 138px;
+    text-align: center;
+}
+.item-A{
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    text-transform: uppercase;
+    color:green;
+    position:relative;
+}
+.item-A:after{
+    content: "";
+    position:absolute;
+    background-color: orange;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.3s;
+}
+.item-A:hover{
+    font-weight:bold;
+    color:darkgreen;
+}
+.item-A:hover:after{
+    width: 100%;
+    border-bottom: 3px solid orange;
+    transition:0.3s;
+}
+.first-section{
+    height: 460px;
+    background-image: url(img/background.jpg);
+    background-size: cover;
+}
+.content-background-first-section{
+    background-color: rgb(0, 0, 0,0.6) ;
+    height: 100%;
+}
+.box-content-geral-first{
+    max-width: 1000px;
+    margin:0 auto;
+    display: flex;
+    height: 100%;
+}
+.first-column-first{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color:#fff;
+}
+.second-column-first{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content-img-first-section{
+    width: 300px;
+    height: 300px;
+}
+.second-section{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-content-geral-second{
+    max-width: 1000px;
+    display: flex;
+    margin:0 auto;
+    flex-wrap: wrap;
+}
+.first-column-second-background-opacity{
+    width:300px;
+    height:300px; 
+    border-radius:50% ;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+#opacity_color_first_cicle{
+    background-color: rgba(11, 75, 45, 0.8);
+}
+#opacity_color_second_cicle{
+    background-color: rgba(18, 199, 139, 0.8);
+}
+#opacity_color_third_cicle{
+    background-color: rgba(231, 141, 56, 0.8);
+}
+.first-column-second-alinhado-vertical{
+    text-align: center;
+}
+.first-column-second{
+    width:300px;
+    height:300px;
+    background-image: url(img/circle_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius:50%;
+    margin: 15px;
+}
+.second-column-second{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:300px;
+    height:300px;
+    background-image: url(img/circle_2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius:50%;
+    margin: 15px;
+}
+.third-column-second{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width:300px;
+    height:300px;
+    border-radius:50%;
+    background-image: url(img/circle_3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 15px;
+}
+.third-section{
+    background-color: rgb(255, 136, 0);
+    height: 200px;
+}
+.box-content-geral-third{
+    margin:0 auto;
+    max-width: 1400px;
+    height: 100%;
+    display: flex;
+}
+.description{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#fff;
+}
+.pfirst{
+    font-size: 15pt;
+    padding: 20px;
+    line-height:30px;
+    text-align: center;
+}
+.pthird{
+    width: 30%;
+    padding: 50px;
+    font-size: 10.5pt;
+    line-height: 20px;
+}
+.img-item{
+    padding:30px;
+}
+.enter-local-input{
+    width: 30%;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-item{
+    width: 350px;
+    height: 40px;
+    border:none;
+    border-radius: 5px;
+    padding: 5px;
+}
+.img-item-icon{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.a-item{
+    text-decoration: none;
+    font-size: 25px;
+    color:#ffff;
+    font-family:Arial, Helvetica, sans-serif;
+}
