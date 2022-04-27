@@ -20,4 +20,4 @@
 ──▓▓▓█─.▓▓▓█─▓▓▓█─▓▓▓█──▓▓▓█
 ##
 
-<img align="right" alt="CALCULADORA-pic" height="300" style="border-radius:50px;" src="https://github.com/JVOA02/Gaz_website/blob/main/img/preview_01.png">
+<img align="right" alt="CALCULADORA-pic" height="200" style="border-radius:50px;" src="https://github.com/JVOA02/Gaz_website/blob/main/img/preview_01.png">
