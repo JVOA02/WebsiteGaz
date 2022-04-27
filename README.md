@@ -1,6 +1,6 @@
 # 🖥️ Gaz_website 🖥️
 ## 💻 Utilizando HTML, CSS e JavaScript 💻
-### Responsive landing_page
+### 📱 Responsive landing_page 📱
 
 ## SOBRE O PROJETO
 - Responsive lading_page Website usando HTML, CSS & JavaScript.
@@ -13,4 +13,11 @@
 ➡️ https://www.copagaz.com.br/
 ## PARA UTILIZAR O PROJETO, ACESSE
 ➡️ https://jvoa02.github.io/Gaz_website/
+
+##
+───▓▓▓█▓█──▓█────▓█──▓█─.▓▓▓█
+────.▓█─▓█─▓█─────▓█─▓█───.▓█
+──▓▓▓█─.▓▓▓█─▓▓▓█─▓▓▓█──▓▓▓█
+##
+
 <img align="right" alt="CALCULADORA-pic" height="300" style="border-radius:50px;" src="https://github.com/JVOA02/Gaz_website/blob/main/img/preview_01.png">
