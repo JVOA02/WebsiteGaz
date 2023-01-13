@@ -9,11 +9,6 @@
 - Dark mode e light mode.
 - Botão para contato no canto inferior direito.
 
-## REFERÊNCIA DO PROJETO
-➡️ https://www.copagaz.com.br/
-## PARA UTILIZAR O PROJETO, ACESSE
-➡️ https://jvoa02.github.io/Gaz_website/
-
 ##
 ───▓▓▓█▓█──▓█────▓█──▓█─.▓▓▓█
 ────.▓█─▓█─▓█─────▓█─▓█───.▓█
