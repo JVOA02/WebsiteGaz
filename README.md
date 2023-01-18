@@ -8,7 +8,6 @@
 - Responsive lading_page Website usando HTML, CSS & JavaScript.
 - As cores utilizadas foram ( Verde, Laranja e branco).
 - Compatibilidade com celular, tablet e computador.
-- Dark mode e light mode.
 - Botão para contato no canto inferior direito.
 
 
